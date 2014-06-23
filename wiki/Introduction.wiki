@@ -1,5 +1,3 @@
-# Introduction to the cloud radiative kernels
-
 = Overview =
 
 Cloud radiative kernels [http://www.atmos.washington.edu/~mzelinka/Zelinka_etal12a.pdf Zelinka et al. (2012)] quantify the sensitivity of top-of-atmosphere (TOA) radiative fluxes to cloud fraction perturbations within seven cloud top pressure categories and seven optical depth categories.  Multiplying the cloud radiative kernels, which are a function of latitude, month, and surface albedo, by changes in cloud fraction (segregated on the same cloud top pressure-optical depth grid) between two climate states yields a quantitative estimate of cloud-induced TOA radiation anomalies.  Normalizing these by the change in global mean surface temperature between the two climate states provides a measure of cloud feedback.
