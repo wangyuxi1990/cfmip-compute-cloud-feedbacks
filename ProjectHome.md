@@ -1,0 +1,3 @@
+This Matlab script demonstrates how to apply the cloud radiative kernels of Zelinka et al. (2012) to estimate the radiative impact of ISCCP simulator-defined cloud fraction anomalies. Dividing these radiative impacts by the global mean surface temperature anomaly yields an estimate of the cloud feedback.  The code performs this calculation for a single model (MPI-ESM-LR) using the difference between amipFuture and amip runs.
+
+Reference: Zelinka, M. D., S. A. Klein, and D. L. Hartmann, 2012: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels. J. Climate, 25, 3715?3735. doi:10.1175/JCLI-D-11-00248.1.
